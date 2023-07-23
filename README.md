@@ -41,8 +41,6 @@ Thank you for visiting my portfolio page, I hope you find inspiration here!.</p>
 <p align="left">
   <a href="https://github.com/adinghabsyi">
     <img height="180em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adinghabsyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="adinghabsyi github stats" />
-  </a> 
-  <a href="https://github.com/adinghabsyi/github-readme-stats">
     <img height="180em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adinghabsyi&layout=compact&langs_count=8&theme=dracula" alt="adinghabsyi github stats" />
   </a>
 </p>
