@@ -39,8 +39,8 @@ Thank you for visiting my portfolio page, I hope you find inspiration here!.</p>
 
 ## My GitHub Stats 🔥 :
 <div style="display: flex; justify-content: space-between;">
-  <img height="180em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adinghabsyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="adinghabsyi github stats" />
-  <img height="180em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adinghabsyi&layout=compact&langs_count=8&theme=dracula" alt="adinghabsyi github stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adinghabsyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="adinghabsyi github stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adinghabsyi&layout=compact&langs_count=8&theme=dracula" alt="adinghabsyi github stats" />
 </div>
 <p></p>
 
