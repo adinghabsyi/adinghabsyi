@@ -2,11 +2,8 @@
 **adinghabsyi/adinghabsyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<div align="center">
+<div align="left">
   <h1>Hi! 👋 I'm Ading</h3>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300" />
 </div>
 
 <p>Welcome to my portfolio page! I'm a software engineer who always enjoys learning new technologies. This page serves as my personal portfolio project, where I showcase my latest works for future projects. Currently, I'm focusing on learning the React Framework.
