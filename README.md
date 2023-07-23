@@ -38,7 +38,7 @@ Thank you for visiting my portfolio page, I hope you find inspiration here!.</p>
 
 
 ## My GitHub Stats 🔥 :
-<p align="center">
+<p align="left">
   <a href="https://github.com/adinghabsyi">
     <img height="180em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adinghabsyi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="adinghabsyi github stats" />
   </a> 
